@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  AnyScreen
+
+  Created by pcbeta on 16/5/11.
+  Copyright © 2016年 xindawn. All rights reserved.
+*/
+STR_PREPARE =  "Prepare recording";
+STR_CANCEL = "Cancel recording";
+STR_STOP = "Stop recording";
+STR_SELECT = "Select ";

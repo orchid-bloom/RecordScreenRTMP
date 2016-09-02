@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  AnyScreen
+
+  Created by pcbeta on 16/5/11.
+  Copyright © 2016年 xindawn. All rights reserved.
+*/
+STR_PREPARE =  "准备录屏";
+STR_CANCEL = "取消录屏";
+STR_STOP = "正在录屏,点击停止";
+STR_SELECT = "点击选择";
